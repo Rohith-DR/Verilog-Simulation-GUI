@@ -179,10 +179,6 @@ This project is licensed under the **GNU General Public License v2.0** - see the
 - **GTKWave**: The GTKWave team for the waveform viewer
 - **Python Community**: For the libraries and tools that made this GUI possible
 
-## 📚 Version History
-
-See [CHANGELOG.md](CHANGELOG.md) for detailed version history and updates.
-
 ---
 
 > **📌 Note**: This application is a GUI frontend for Icarus Verilog. All simulation and compilation are handled by the underlying iverilog tools. Make sure you have the proper Icarus Verilog installation as described in the [Prerequisites](#prerequisites) section.
